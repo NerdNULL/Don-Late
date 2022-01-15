@@ -12,10 +12,15 @@
 
 # Don-Late
 
-
 일정 금액을 예치하여 지각이나 결석한 사람들의 예치금 일부를 정상적으로 모임에 나온 사람들에게 분배해 주는 애플리케이션</br>
 
 </br>
+
+## Source Code
+[Don-Late AOS](https://github.com/NerdNULL/DL-Front) <br>
+[Don-Late Server](https://github.com/NerdNULL/DL-Server)
+
+<br>
 
 ## Architecture
 
