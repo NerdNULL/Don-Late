@@ -22,6 +22,12 @@
 
 <br>
 
+## Wiki
+[History](https://github.com/NerdNULL/Don-Late/wiki/History) <br>
+[Rules](https://github.com/NerdNULL/Don-Late/wiki/Rules)
+
+</br>
+
 ## Architecture
 
 </br>
